@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ed5929f03dd32edb057fec7f",
+  "owner": "neejxxpus",
+  "repo": "page-cdfa54f10fa155651098e3a1",
+  "title": "芒果网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cdfa54f10fa155651098e3a1",
+      "a": "芒果网络",
+      "b": "机场官网线路发布页",
+      "entity": "芒果网络",
+      "brand": "芒果网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "20d2e15f97190732c7ab78440c065212236969636c1a4e03c4d30e584875169b",
+      "content": {
+        "primary_entity": "芒果网络",
+        "keyword1": "芒果网络",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再整理订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后，在客户端导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始接入线路",
+          "AI_DESCRIPTION": "，围绕设备数量与流量需求划分基础版、旗舰版和团队版，年付方案更划算，适合日常浏览、影音与游戏加速等不同场景。",
+          "AI_FAQ_ANSWER_1": "芒果网络提供基础版、旗舰版和团队版。基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，含IPLC专线游戏加速优化；团队版每月1000GB、20台设备，支持企业定制路由。",
+          "AI_FAQ_ANSWER_2": "旗舰版强调全节点原生流媒体解锁与IPLC专线游戏加速优化，适合对延迟和画质有要求的用户；基础版提供普通线路节点池，满足日常浏览与基础流媒体。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。按常用设备数量选择即可，切换设备时重新登录对应客户端。",
+          "AI_FAQ_ANSWER_4": "年付更划算：基础版按年付仅需¥150/年，旗舰版按年付仅需¥350/年，团队版按年付仅需¥850/年。月付适合短期体验，年付适合长期使用。",
+          "AI_FAQ_ANSWER_5": "在对应客户端中导入订阅地址，更新节点后选择线路连接。若需更换套餐，可在账户内调整后重新获取订阅配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "芒果网络有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了什么？",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "如何导入订阅使用？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路特性出发，快速判断适合的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，按年付分别仅需¥150、¥350和¥850。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台同时在线，按日常设备数量对号入座。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版含IPLC专线或VIP高带宽节点，适合游戏和流媒体需求。",
+          "AI_FEATURE_TITLE_1": "套餐对比",
+          "AI_FEATURE_TITLE_2": "设备规划",
+          "AI_FEATURE_TITLE_3": "线路特性",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步可以顺畅使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "芒果网络提供基础版、旗舰版与团队版三档方案，按流量与设备数区分。选择客户端导入订阅后即可连接使用，适合个人多设备与团队协作场景。",
+          "AI_HERO_SUBTITLE": "芒果网络多线路加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐按需选",
+          "AI_HIGHLIGHT_2": "设备数量灵活匹配",
+          "AI_HIGHLIGHT_3": "年付方案更划算",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备，旗舰版每月300GB、5台设备，团队版每月1000GB、20台设备，年付价格更优。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量和同时在线设备数，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备的系统版本，查看客户端适配情况。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅地址，更新节点后连接线路即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "芒果网络套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "szyansuwl.com",
+    "host": "szyansuwl.com"
+  },
+  "file_hashes": {
+    "index.html": "7d5f88d87d72aac86e89a3aff0ed473dc3e7997ead1b51a3feb719815f20ebe8",
+    "sitemap.xml": "643b26b569e1cc52e6185a611366faee43051959423b2a74f23a98cb86df12bd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0c30cf81838f8911382254cb3c6af5fce9b9f142557725161f2e3d2398d7a99b",
+    "robots.txt": "58c14c2d54581082f670794d60c1768c71a8c8c8a740fbbd0e1315c1b36dfef2",
+    "7b96762ac3c51deb353433e65c63aa68.txt": "97a7621403dbc5edab79b12886c91880c5890a2af2f57ba17f939e7905643e34"
+  },
+  "revision": "97d7d045ab8bee5671a6f5d05589406c4ba03cba00876d0d7cb48277d78b8fe6"
+}
